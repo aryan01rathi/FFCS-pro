@@ -15,7 +15,7 @@ app.use(
 
 //Testing PORT
 app.get('/', (request, response) => {
-    response.json({ info: 'Adarsh Jha, 20BCE10988, VIT' })
+    response.json({ info: 'Aryan Rathi, 20BCE10957, VIT' })
   })
 
 //Admin routes :http://localhost:3000/admin/
